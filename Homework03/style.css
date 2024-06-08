@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    scroll-behavior: smooth;
+    background: #fff;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+h1,
+p,
+a,
+button {
+    color: #000;
+    font-family: "Inter", sans-serif;
+}
+
+.container {
+    max-width: 1174px;
+    margin: 0 auto;
+}
+
+.header {
+    padding: 42px 0;
+    margin-bottom: 84px;
+}
+
+.navbar {}
+
+.navbar a {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.navbar a:hover {
+    color: #f25822;
+    font-weight: 600;
+}
+
+.main {
+    margin-bottom: 100px;
+}
+
+.main-content {}
+
+.description {}
+
+.description h1 {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 120%;
+    margin-bottom: 20px;
+}
+
+.description p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 140%;
+    color: #888;
+    margin-bottom: 32px;
+}
+
+.button-section {
+    margin: 16px 31px;
+
+}
+
+.button-section button {
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.start-bttn {
+    border-radius: 56px;
+    padding: 16px 31px;
+    background: #f25822;
+    color: #fff;
+}
+
+.watch-bttn {
+    color: #aaa;
+    background: #fff;
+}
+
+.footer {}
+
+.logos {
+    margin-bottom: 100px;
+}
