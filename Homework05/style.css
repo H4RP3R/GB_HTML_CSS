@@ -53,6 +53,7 @@ button {
 .navbar a {
     font-weight: 400;
     font-size: 14px;
+    font-family: 'Inter', sans-serif;
 }
 
 .nav-menu {
